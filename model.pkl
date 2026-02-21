@@ -1,0 +1,1 @@
+import picklepickle.dump(model, open("model.pkl", "wb"))
